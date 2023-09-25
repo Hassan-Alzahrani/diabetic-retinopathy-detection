@@ -9,6 +9,7 @@ channels:
 dependencies:
   - dask
   - gh
+  - python=3.8
   - git
   - kaggle
   - jupyterlab
